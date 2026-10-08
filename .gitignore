@@ -1,2 +1,19 @@
+# IDE
+.vscode/
+.idea/
+nbproject/private/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Uploaded files
 uploads/*
 !uploads/.gitkeep
+
+# Environment / secrets
+.env
